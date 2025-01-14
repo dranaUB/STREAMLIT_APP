@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/937373985281107027/d205670a44cd470192a10283a34d4e70/artifacts
+deleted_time: 1736770650101
+end_time: 1736770617868
+entry_point_name: ''
+experiment_id: '937373985281107027'
+lifecycle_stage: deleted
+run_id: d205670a44cd470192a10283a34d4e70
+run_name: rumbling-auk-14
+run_uuid: d205670a44cd470192a10283a34d4e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736770615727
+status: 3
+tags: []
+user_id: devendrarana

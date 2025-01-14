@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/937373985281107027/9f06466349dc428a89dfdc30f547ab5c/artifacts
+deleted_time: 1736770650101
+end_time: 1736770593011
+entry_point_name: ''
+experiment_id: '937373985281107027'
+lifecycle_stage: deleted
+run_id: 9f06466349dc428a89dfdc30f547ab5c
+run_name: capricious-snipe-772
+run_uuid: 9f06466349dc428a89dfdc30f547ab5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736770590345
+status: 3
+tags: []
+user_id: devendrarana

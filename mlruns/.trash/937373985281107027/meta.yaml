@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/937373985281107027
+creation_time: 1736770590266
+experiment_id: '937373985281107027'
+last_update_time: 1736792668258
+lifecycle_stage: deleted
+name: Predict Median California House Price
+tags: {}

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/937373985281107027/47fd16df55fc4d7cab1e66fb103ef792/artifacts
+deleted_time: 1736792668258
+end_time: 1736770671606
+entry_point_name: ''
+experiment_id: '937373985281107027'
+lifecycle_stage: deleted
+run_id: 47fd16df55fc4d7cab1e66fb103ef792
+run_name: traveling-fowl-60
+run_uuid: 47fd16df55fc4d7cab1e66fb103ef792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736770669420
+status: 3
+tags: []
+user_id: devendrarana

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/579259285648211395/6ad3945606e746d5beedaaf6a1022362/artifacts
+deleted_time: 1736846557584
+end_time: 1736792967241
+entry_point_name: ''
+experiment_id: '579259285648211395'
+lifecycle_stage: deleted
+run_id: 6ad3945606e746d5beedaaf6a1022362
+run_name: sedate-boar-5
+run_uuid: 6ad3945606e746d5beedaaf6a1022362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736792964584
+status: 3
+tags: []
+user_id: devendrarana

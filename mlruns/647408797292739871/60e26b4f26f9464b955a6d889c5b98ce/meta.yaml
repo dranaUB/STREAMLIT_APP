@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/647408797292739871/60e26b4f26f9464b955a6d889c5b98ce/artifacts
+end_time: 1736846637894
+entry_point_name: ''
+experiment_id: '647408797292739871'
+lifecycle_stage: active
+run_id: 60e26b4f26f9464b955a6d889c5b98ce
+run_name: persistent-eel-411
+run_uuid: 60e26b4f26f9464b955a6d889c5b98ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736846635033
+status: 3
+tags: []
+user_id: devendrarana

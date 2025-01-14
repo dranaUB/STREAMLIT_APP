@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736770593005
+current_stage: None
+description: ''
+last_updated_timestamp: 1736770593005
+name: rfr_moodel_n_estimators=50
+run_id: 9f06466349dc428a89dfdc30f547ab5c
+run_link: ''
+source: mlflow-artifacts:/937373985281107027/9f06466349dc428a89dfdc30f547ab5c/artifacts/housing_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/937373985281107027/9f06466349dc428a89dfdc30f547ab5c/artifacts/housing_model
+user_id: null
+version: 1
